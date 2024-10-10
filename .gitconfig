@@ -1,0 +1,7 @@
+[user]
+	email = marcushult@hotmail.se
+	name = Marcus Hult
+[core]
+	editor = vim
+[diff]
+	tool = vimdiff
