@@ -1,0 +1,10 @@
+import = [
+"~/.config/alacritty/keybindings.toml",
+]
+
+[font]
+size = 10.0
+normal = { family = "CommitMonoNerdFont", style = "Regular" }
+
+# [shell]
+# program = "tmux"
