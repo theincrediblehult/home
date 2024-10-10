@@ -1,1 +1,10 @@
-*
+/*
+
+!/.config
+/.config/*
+!/.config/nvim/
+!/.config/awesome/
+!/.config/alacritty/
+
+!/.tmux.conf
+!/.gitignore
