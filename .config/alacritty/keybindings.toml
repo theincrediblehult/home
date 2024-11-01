@@ -1,7 +1,7 @@
 [keyboard]
   bindings = [
-    { key = "F", mods = "Control|Shift", chars = "fzf_cd_projects\n" },
-    { key = "F", mods = "Control", chars = "fzf_cd\n" },
-    { key = ".", mods = "Control", chars = "\u0001n\u000D" },
-    { key = ",", mods = "Control", chars = "\u0001p\u000D" },
+    # { key = "F", mods = "Control|Shift", chars = "fzf_cd_projects\n" },
+    # { key = "F", mods = "Control", chars = "fzf_cd\n" },
+    # { key = ".", mods = "Control", chars = "\u0001n\u000D" },
+    # { key = ",", mods = "Control", chars = "\u0001p\u000D" },
   ]
